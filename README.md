@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Sample Hardhat Project for ETH MExico
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Created for Oktopus demo project.
 
-Try running some of the following tasks:
+Oktopus is an educational platform oriented to encourage learning web3 content, learning while staking.
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Repository for front-end can be found here:
+https://github.com/ferdelat/Oktopus 
